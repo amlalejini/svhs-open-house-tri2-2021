@@ -1,6 +1,7 @@
 # Site settings
 title: "Swan Valley Open House"
 email: swanvalley@swanvalley.com
+baseurl: /swanvalley-open-house-2020
 
 collections:
   faculty:

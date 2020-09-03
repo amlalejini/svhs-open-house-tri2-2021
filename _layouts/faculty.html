@@ -6,6 +6,7 @@ layout: default
 
   <!-- Sidebar -->
   <div class="border-right" id="sidebar-wrapper">
+
     <div class="sidebar-heading pt-5">
       <h2>Swan Valley High School</h2>
       <hr/>
@@ -28,9 +29,20 @@ layout: default
 
     <div class="jumbotron jumbotron-fluid py-4">
       <div class="container">
-        <div class="d-flex justify-content-center">
-          <h1 class="display-3">{{ page.information.name }}</h1>
-        </div>
+        <!-- <div class="d-flex justify-content-center"> -->
+
+          <div class="row">
+            <div class="col d-flex justify-content-center">
+              <h1 class="display-3">{{ page.information.name }}</h1>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col d-flex justify-content-center">
+              <a class="btn btn-primary" href="{{ site.baseurl }}/"> back to welcome page </a>
+            </div>
+          </div>
+        <!-- </div> -->
       </div>
     </div>
 

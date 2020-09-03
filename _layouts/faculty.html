@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="d-flex" id="wrapper">
+
+  <!-- Sidebar -->
+  <div class="border-right" id="sidebar-wrapper">
+    <div class="sidebar-heading pt-5">
+      <h2>Swan Valley High School</h2>
+      <hr/>
+      <p class="lead">2020 Virtual Open House</p>
+    </div>
+
+    <div class="card border-0">
+      <div class="card-header">
+        <i class="fad fa-search"></i> Find your teacher!
+      </div>
+      <div class="card-body">
+        {% include faculty_list_filter.html %}
+      </div>
+    </div>
+
+  </div>
+  <!-- /#sidebar-wrapper -->
+
+  <div id="page-content-wrapper">
+
+    <div class="jumbotron jumbotron-fluid py-4">
+      <div class="container">
+        <div class="d-flex justify-content-center">
+          <h1 class="display-3">{{ page.information.name }}</h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      {% for course in page.information.courses %}
+
+        <div class="row pb-2">
+          <div class="col">
+
+            <div class="card">
+              <div class="card-header">
+                {{ course.name }}
+              </div>
+              <div class="card-body">
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="{{ course.video }}" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+      {% endfor %}
+
+    </div>
+
+  </div> <!-- /#page-content-wrapper -->
+
+</div> <!-- /#wrapper -->

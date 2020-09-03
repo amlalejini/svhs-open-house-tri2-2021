@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-3">{{ page.title }}</h1>
+    <hr/>
+    <h2 class="display-4"> {{ page.subtitle }}</h2>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- Introductory messages from important folk. -->
+  <div class="row pb-2">
+
+    <!-- important folk 0 -->
+    <div class="col">
+      <div class="card">
+        <div class="card-header">
+          Introduction by Important Folk #0
+        </div>
+        <div class="card-body p-0">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="{{ page.introduction_video_0 }}" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- important folk 1 -->
+    <div class="col">
+      <div class="card">
+        <div class="card-header">
+          Introduction by Important Folk #1
+        </div>
+        <div class="card-body p-0">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="{{ page.introduction_video_1 }}" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <div class="card">
+        <div class="card-header">
+          <i class="fad fa-search"></i> Find your teacher!
+        </div>
+        <div class="card-body">
+          {% include faculty_list_filter.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -3,6 +3,24 @@
 
 @import "bootstrap/bootstrap.scss";
 
+$theme-primary-color: #4C266F;
+$theme-secondary-color: #F8B50F;
+
+#landing-jumbotron {
+  background-color: $theme-primary-color;
+  color: $white;
+  hr {
+    color: $theme-secondary-color;
+    background-color: $theme-secondary-color;
+  }
+}
+
+.landing-card {
+  .card-header {
+    background-color: $theme-secondary-color;
+  }
+}
+
 /*!
  * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/templates/simple-sidebar)
  * Copyright 2013-2020 Start Bootstrap

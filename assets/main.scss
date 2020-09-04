@@ -15,6 +15,10 @@ $theme-secondary-color: #F8B50F;
   }
 }
 
+#faculty-jumbotron {
+  @extend #landing-jumbotron;
+}
+
 .landing-card {
   .card-header {
     background-color: $theme-secondary-color;

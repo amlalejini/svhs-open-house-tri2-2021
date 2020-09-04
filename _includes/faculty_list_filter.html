@@ -4,6 +4,7 @@
 
     <input class="form-control" id="myInput" type="text" placeholder="Search..">
     <br>
+
     <ul class="list-group list-group-flush" id="myList">
       {% assign teachers = site.faculty | sort: "key" %}
       {% for teacher in teachers  %}
@@ -12,6 +13,7 @@
       </a>
       {% endfor %}
     </ul>
+
 
   </div>
 </div>

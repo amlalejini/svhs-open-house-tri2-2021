@@ -3,6 +3,7 @@ layout: faculty
 key: bush
 information:
   name: Kate Bush
+  email: bush@kate.com
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
     - name: Algebra II

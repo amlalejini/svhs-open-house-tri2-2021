@@ -47,7 +47,19 @@ layout: default
               <h1 class="display-3">{{ page.information.name }}</h1>
             </div>
           </div>
-          <!-- <hr> -->
+
+          {% if page.information.email %}
+            <hr/>
+
+            <div class="row">
+              <div class="col d-flex justify-content-center">
+                <h4>
+                  <span class="material-icons">email</span>
+                  {{ page.information.email }}
+                </h4>
+              </div>
+            </div>
+          {% endif %}
 
         <!-- </div> -->
       </div>
@@ -55,20 +67,29 @@ layout: default
 
     <div class="container">
 
+      <!-- TODO add TOC if more than one course -->
+
       {% for course in page.information.courses %}
 
         <div class="row pb-2">
           <div class="col">
 
-            <div class="card">
+            <div class="card course-card">
+
               <div class="card-header">
-                {{ course.name }}
+                <h5 class="card-title m-0">
+                  {{ course.name }}
+                </h5>
               </div>
+
               <div class="card-body">
+
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="{{ course.video }}" allowfullscreen></iframe>
                 </div>
+
               </div>
+
             </div>
 
           </div>

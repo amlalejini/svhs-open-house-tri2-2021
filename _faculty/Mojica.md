@@ -2,7 +2,7 @@
 layout: faculty
 key: Mojica
 information:
-  name: Mr. Mojica
+  name: Mrs. Goodwin and Mr. Mojica
   email: jmojica@swanvalley.k12.mi.us
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:

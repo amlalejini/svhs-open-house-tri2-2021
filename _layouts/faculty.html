@@ -67,14 +67,38 @@ layout: default
 
     <div class="container">
 
-      <!-- TODO add TOC if more than one course -->
+      {% if page.information.courses.size > 1 %}
+        <div class="row pb-2">
+          <div class="col">
+
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">
+                  <span class="material-icons">school</span>
+                  Courses
+                </h5>
+
+                <ul class="m-0">
+                  {% for course in page.information.courses %}
+                    <li class="">
+                      <a href="#{{ course.name }}">{{ course.name }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+      {% endif %}
 
       {% for course in page.information.courses %}
 
         <div class="row pb-2">
           <div class="col">
 
-            <div class="card course-card">
+            <div class="card course-card" id="{{ course.name }}">
 
               <div class="card-header">
                 <h5 class="card-title m-0">

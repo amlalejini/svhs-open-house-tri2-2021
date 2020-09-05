@@ -5,7 +5,7 @@
     <input class="form-control" id="myInput" type="text" placeholder="Search..">
     <br>
 
-    <ul class="list-group list-group-flush" id="myList">
+    <ul class="list-group list-group-flush faculty-list border" id="myList">
       {% assign teachers = site.faculty | sort: "key" %}
       {% for teacher in teachers  %}
       <a href="{{ site.baseurl }}/faculty/{{ teacher.key }}" class="list-group-item list-group-item-action">

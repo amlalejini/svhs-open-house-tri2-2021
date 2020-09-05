@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Buckley
 information:
   name: Ms. Buckley
   email: mbuckley@swanvalley.k12.mi.us

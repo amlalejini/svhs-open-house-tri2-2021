@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Mazany
 information:
   name: Mrs. Mazany
   email: gmazan@swanvalley.k12.mi.us

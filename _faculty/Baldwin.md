@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Baldwin
 information:
   name: Mrs. Baldwin
   email: vbaldwin@swanvalley.k12.mi.us

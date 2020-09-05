@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Kemerer
 information:
   name: Mr. Kemerer
   email: jkemere@swanvalley.k12.mi.us

@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Quellet
 information:
   name: Mr. Quellet
   email: mquelle@swanvalley.k12.mi.us
@@ -15,7 +15,6 @@ information:
           url: https://www.youtube.com
     - name: Biology
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
     - name: Athletic Conditioning
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:

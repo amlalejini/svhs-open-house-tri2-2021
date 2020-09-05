@@ -1,12 +1,12 @@
 ---
 layout: faculty
-key: bush
+key: Dawson
 information:
   name: Mr. Dawson
-  email: ddawson@swanvalley.k12.mi.us 
+  email: ddawson@swanvalley.k12.mi.us
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: Conditioning 
+    - name: Conditioning
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:
         - name: Link to helpful resource

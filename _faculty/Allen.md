@@ -1,22 +1,21 @@
 ---
 layout: faculty
-key: bush
+key: Allen
 information:
   name: Mr. Allen
   email: ballen@swanvalley.k12.mi.us
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: Financial Literacy 
+    - name: Financial Literacy
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:
         - name: Link to helpful resource
           url: https://www.youtube.com
         - name: Link to another helpful resource
           url: https://www.youtube.com
-    - name: Geometry 
+    - name: Geometry
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
-    - name: Algebra I 
+    - name: Algebra I
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:
         - name: Link to helpful resource

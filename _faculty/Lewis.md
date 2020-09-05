@@ -15,7 +15,6 @@ information:
           url: https://www.youtube.com
     - name: Painting
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
     - name: Pottery
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:

@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Luplow
 information:
   name: Ms. Luplow
   email: rluplow@swanvalley.k12.mi.us

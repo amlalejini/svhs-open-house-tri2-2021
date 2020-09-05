@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Palmer
 information:
   name: Mrs. Palmer
   email: kpalmer@swanvalley.k12.mi.us

@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Murphy
 information:
   name: Mr. Murphy
   email: jmurphy@swanvalley.k12.mi.us
@@ -15,7 +15,6 @@ information:
           url: https://www.youtube.com
     - name: Physics
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
     - name: Advanced Physics
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:

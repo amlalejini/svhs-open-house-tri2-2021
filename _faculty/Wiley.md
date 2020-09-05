@@ -1,12 +1,12 @@
 ---
 layout: faculty
-key: bush
+key: Wiley
 information:
   name: Mrs. Wiley
   email: awiley@swanvalley.k12.mi.us
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: World History 
+    - name: World History
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:
         - name: Link to helpful resource

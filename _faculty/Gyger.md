@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Gyger
 information:
   name: Mrs. Gyger
   email: sgyger@swanvalley.k12.mi.us
@@ -13,5 +13,5 @@ information:
           url: https://www.youtube.com
         - name: Link to another helpful resource
           url: https://www.youtube.com
-    - 
+    -
 ---

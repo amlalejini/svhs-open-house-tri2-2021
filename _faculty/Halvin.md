@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Halvin
 information:
   name: Ms. Halvin
   email: khalvin@swanvalley.k12.mi.us
@@ -13,6 +13,6 @@ information:
           url: https://www.youtube.com
         - name: Link to another helpful resource
           url: https://www.youtube.com
-    - name: Chemistry 
+    - name: Chemistry
       video: https://www.youtube.com/embed/pllRW9wETzw
 ---

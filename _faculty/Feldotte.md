@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Feldotte
 information:
   name: Mrs. Feldotte
   email: pfedlot@swanvalley.k12.mi.us

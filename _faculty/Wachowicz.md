@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Wachowicz
 information:
   name: Mr. Wachowicz
   email: nwachowicz@swanvalley.k12.mi.us

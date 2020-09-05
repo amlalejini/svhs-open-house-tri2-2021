@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Erlenbeck
 information:
   name: Mrs. Erlenbeck
   email: herlenb@swanvalley.k12.mi.us
@@ -13,6 +13,6 @@ information:
           url: https://www.youtube.com
         - name: Link to another helpful resource
           url: https://www.youtube.com
-    - name: AP Calculus 
+    - name: AP Calculus
       video: https://www.youtube.com/embed/pllRW9wETzw
 ---

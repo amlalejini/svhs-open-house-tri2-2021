@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Ray
 information:
   name: Mrs. Ray
   email: tray2@swanvalley.k12.mi.us
@@ -15,7 +15,6 @@ information:
           url: https://www.youtube.com
     - name: Math Lab
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
     - name: Algebra II A
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:

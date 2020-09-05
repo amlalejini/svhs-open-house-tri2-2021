@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Kennelly
 information:
   name: Mr. Kennelly
   email: pkennel@swanvalley.k12.mi.us
@@ -15,7 +15,6 @@ information:
           url: https://www.youtube.com
     - name: Metals I A
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
     - name: Metals II A
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:

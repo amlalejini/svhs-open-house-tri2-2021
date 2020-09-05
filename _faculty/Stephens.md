@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Stephens
 information:
   name: Mr. Stephens
   email: bstephe@swanvalley.k12.mi.us
@@ -15,8 +15,7 @@ information:
           url: https://www.youtube.com
     - name: Psychology
       video: https://www.youtube.com/embed/pllRW9wETzw
-        courses:
-    - name: AP World History 
+    - name: AP World History
       video: https://www.youtube.com/embed/pllRW9wETzw
       links:
         - name: Link to helpful resource

@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: LaBrake
 information:
   name: Mr. LaBrake
   email: tlabrak@swanvalley.k12.mi.us

@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Lange
 information:
   name: Mr. Lange
   email: glange@swanvalley.k12.mi.us
@@ -13,5 +13,5 @@ information:
           url: https://www.youtube.com
         - name: Link to another helpful resource
           url: https://www.youtube.com
-    
+
 ---

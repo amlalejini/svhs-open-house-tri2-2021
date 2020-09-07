@@ -4,15 +4,10 @@ key: Dawson
 information:
   name: Mr. Dawson
   email: ddawson@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
+  video: 
   courses:
     - name: Conditioning
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
+      video: https://www.youtube.com/embed/7Wb46Tbt0dE
     - name: Financial Literacy
-      video: https://www.youtube.com/embed/pllRW9wETzw
+      video: https://www.youtube.com/embed/zdGIkFESayU
 ---

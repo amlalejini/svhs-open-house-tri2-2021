@@ -4,22 +4,11 @@ key: Allen
 information:
   name: Mr. Allen
   email: ballen@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
+  video: 
   courses:
     - name: Financial Literacy
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    - name: Geometry
-      video: https://www.youtube.com/embed/pllRW9wETzw
-    - name: Algebra I
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
+      video: https://www.loom.com/embed/fb4c938fb0504590ac1d09339dc7e127
+    - name: Geometry and Algebra I
+      video: https://www.loom.com/embed/c34021d56a24430f9558cebcd06fa763
+        
 ---

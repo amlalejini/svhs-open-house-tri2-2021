@@ -1,6 +1,6 @@
 ---
 layout: faculty
-key: bush
+key: Lewis
 information:
   name: Mr. Lewis
   email: mlewis@swanvalley.k12.mi.us

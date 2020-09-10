@@ -4,15 +4,9 @@ key: Mazany
 information:
   name: Mrs. Mazany
   email: gmazan@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
     - name: English 12 A
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    - name: AP Literature
-      video: https://www.youtube.com/embed/pllRW9wETzw
+      video: https://drive.google.com/file/d/17jzEPgZAknK6G9Ao9bZ2WEh3yq8dLgQ3/preview
+    - name: AP Literature and Composition
+      video: https://drive.google.com/file/d/1JjF46Hto_M06NJZt6ko3OY1OgDYPlaus/preview
 ---

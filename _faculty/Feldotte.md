@@ -4,15 +4,10 @@ key: Feldotte
 information:
   name: Mrs. Feldotte
   email: pfedlot@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: Spanish II A
-      video: https://www.youtube.com/embed/pllRW9wETzw
+    - name: Spanish I and Spanish II
+      video: https://drive.google.com/file/d/1XZyqo0DGeHdWU3URqMbzwKt6g2divBrI/preview
       links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    - name: Spanish I A
-      video: https://www.youtube.com/embed/pllRW9wETzw
+        - name: Syllabus
+          url: https://drive.google.com/file/d/1czGb5QtdSuMEyjsMW_CfEwx8xUNU6QZa/view?usp=sharing
 ---

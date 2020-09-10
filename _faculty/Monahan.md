@@ -4,15 +4,7 @@ key: Monahan
 information:
   name: Mr. Monahan
   email: cmonaha@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: US History A
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    - name: Economics
-      video: https://www.youtube.com/embed/pllRW9wETzw
+    - name: US History and Economics
+      video: https://drive.google.com/file/d/1_qegOmYHh71xsQL4g5tU8orpgBwSRlP2/preview
 ---

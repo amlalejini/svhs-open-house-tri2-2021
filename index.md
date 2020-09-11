@@ -17,4 +17,4 @@ counseling_resources:
 ---
 
 
-Thank you for joining us for our first Swan Valley High School Virtual Open House. Please watch the videos below and then search for your student's teachers below by name and look at the resources on their individual pages. Questions? Email Mrs. Lalejini at alalejini@swanvalley.k12.mi.us. Thank you! 
+Thank you for joining us for our first Swan Valley High School Virtual Open House. Please watch the videos below and then search for your student’s teachers below by name and look at the resources on their individual pages. Please feel free to email teachers directly about their classes' content and classroom policies. Do you have technical questions? Email Mrs. Lalejini at alalejini@swanvalley.k12.mi.us. Thank you!   

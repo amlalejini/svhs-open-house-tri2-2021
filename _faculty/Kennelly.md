@@ -4,6 +4,7 @@ key: Kennelly
 information:
   name: Mr. Kennelly
   email: pkennel@swanvalley.k12.mi.us
+  name: Introduction Video for All Courses
   video: https://drive.google.com/file/d/1f_RY2mrjd0heW0kLQX557k07QIKj8sJw/preview
   courses:
     - name: Small Engines

@@ -4,14 +4,7 @@ key: Deming
 information:
   name: Mr. Deming
   email: cdeming@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
     - name: Band
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    -
+      video: https://drive.google.com/file/d/1bMllD4X9Azwv5_XdiMzv4WKE51S2BoI3/preview
 ---

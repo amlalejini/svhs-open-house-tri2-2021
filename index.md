@@ -8,10 +8,10 @@ introduction_video_0: https://drive.google.com/file/d/1KwSpFegOE2C0oqEnHFffO3H6s
 introduction_name_1: Mr. Olinger
 introduction_video_1: https://www.youtube.com/embed/pllRW9wETzw
 counseling_name_0: Mrs. Luplow
-counseling_video_0: https://www.youtube.com/embed/pllRW9wETzw
+counseling_video_0: https://www.youtube.com/embed/h6lfl1-NH7Y
 counseling_name_1: Ms. Hanson
-counseling_video_1: https://www.youtube.com/embed/pllRW9wETzw
+counseling_video_1: https://www.youtube.com/embed/k0jGzCvYwcw
 counseling_resources:
   - name: Junior and senior parent night
-    url: https://www.youtube.com/embed/pllRW9wETzw
+    url: https://drive.google.com/file/d/1hN_lK5poJ-IOyuBHEDnPaIRvh4WTJPu_/view?usp=sharing
 ---

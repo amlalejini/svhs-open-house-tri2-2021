@@ -15,3 +15,6 @@ counseling_resources:
   - name: Junior and senior parent night
     url: https://drive.google.com/file/d/1hN_lK5poJ-IOyuBHEDnPaIRvh4WTJPu_/view?usp=sharing
 ---
+
+
+Thank you for joining us for our first Swan Valley High School Virtual Open House. Please watch the videos below and then search for your student's teachers below by name and look at the resources on their individual pages. Questions? Email Mrs. Lalejini at alalejini@swanvalley.k12.mi.us. Thank you! 

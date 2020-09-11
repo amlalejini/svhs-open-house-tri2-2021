@@ -80,7 +80,44 @@ layout: default
           </h5>
         </div>
         <div class="card-body border border-top-0">
-          <p> todo </p>
+          <div class="row"> <!-- videos row -->
+            <div class="col">
+              <div class="card border-0">
+                <div class="d-flex justify-content-center">
+                  <h5 class="card-title">{{ page.counseling_name_0 }}</h5>
+                </div>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="{{ page.counseling_video_0 }}" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card border-0">
+                <div class="d-flex justify-content-center">
+                  <h5 class="card-title">{{ page.counseling_name_1 }}</h5>
+                </div>
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="{{ page.counseling_video_1 }}" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+          </div> <!-- /videos row -->
+          {% if page.counseling_resources.size > 0 %}
+            <div class="row">
+              <div class="card border-0">
+                <div class="card-body">
+                  <h5 class="card-title">Resources</h5>
+                  <ul class="m-0">
+                    {% for link in page.counseling_resources %}
+                      <li class="">
+                        <a href="{{ link.url }}">{{ link.name }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>

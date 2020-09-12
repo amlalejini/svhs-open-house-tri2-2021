@@ -4,15 +4,7 @@ key: Wachowicz
 information:
   name: Mr. Wachowicz
   email: nwachowicz@swanvalley.k12.mi.us
-  video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
-    - name: Drawing/CAD
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
-    - name: Woods I A
-      video: https://www.youtube.com/embed/pllRW9wETzw
+    - name: Drawing/CAD and Woods
+      video: https://drive.google.com/file/d/1F-2y7Mp6wFZ9j6SnpOKkmGOtdyUNkq06/preview
 ---

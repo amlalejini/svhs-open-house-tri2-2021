@@ -8,7 +8,7 @@ information:
     - name: Geometry
       video: https://www.youtube.com/embed/xhFcoQ9ykOQ
     - name: Physics
-      video: https://drive.google.com/file/d/1sefK7p_ndEw72WQlc_yDJ8BqVZkyPn3O/preview
+      video: https://www.youtube.com/embed/ZPOeYEpZcpY 
     - name: Advanced Physics
-      video: https://drive.google.com/file/d/1RTb2npqN5oES4lKgcf-t-69XqaLaDNOf/preview
+      video: https://www.youtube.com/embed/mCTgdKgnbM4
 ---

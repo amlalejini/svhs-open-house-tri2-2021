@@ -6,5 +6,5 @@ information:
   email: mlewis@swanvalley.k12.mi.us
   courses:
     - name: Drawing, Painting, and Pottery
-      video: https://drive.google.com/file/d/1k5VrquBEyV8GGfLbKXlvDTuH8cPmRaWr/preview
+      video: https://www.youtube.com/embed/cFoHzKmWBNQ
 ---

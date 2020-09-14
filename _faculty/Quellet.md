@@ -11,5 +11,5 @@ information:
     - name: Biology
       video: https://www.youtube.com/embed/28c8hVpXW8Q
     - name: Athletic Conditioning
-      video: https://drive.google.com/file/d/1zo7O_jX-TIl_8yhneX3Sq9IPpjm4o9JH/preview
+      video: https://www.youtube.com/embed/1EMcGa9k4oI
 ---

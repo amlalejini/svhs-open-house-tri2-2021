@@ -6,9 +6,9 @@ information:
   email: sball@swanvalley.k12.mi.us
   courses:
     - name: Cooking
-      video: https://drive.google.com/file/d/1VcSdPpbWuM93_FthDdt8-5Yspvuq8h6i/preview
+      video: https://www.youtube.com/embed/-X5gSS8WdXk
     - name: Family Relations
-      video: https://drive.google.com/file/d/1CpwcPCbIyza7X-3G6as9u3uheE0ct7PN/preview
+      video: https://www.youtube.com/embed/1KEZiE5IuWs
     - name: Sewing
-      video: https://drive.google.com/file/d/1_5UaQ3heS1CUs522OqXWx3BJ-7JuViI8/preview
+      video: https://www.youtube.com/embed/A3E1Qx_6WkM
 ---

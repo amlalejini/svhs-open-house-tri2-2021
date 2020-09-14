@@ -7,11 +7,6 @@ information:
   video: https://www.youtube.com/embed/pllRW9wETzw
   courses:
     - name: Tier 3 Math
-      video: https://www.youtube.com/embed/pllRW9wETzw
-      links:
-        - name: Link to helpful resource
-          url: https://www.youtube.com
-        - name: Link to another helpful resource
-          url: https://www.youtube.com
+      video: https://drive.google.com/file/d/1plzLIFwfMzR5uvlAg_wG8pq2k7IxYXv5/preview
     -
 ---

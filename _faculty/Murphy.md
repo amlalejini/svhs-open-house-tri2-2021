@@ -6,7 +6,7 @@ information:
   email: jmurphy@swanvalley.k12.mi.us
   courses:
     - name: Geometry
-      video: https://drive.google.com/file/d/1pxtc3ii4QADAFcTpZrvNhWH8AQbIalPZ/preview
+      video: https://www.youtube.com/embed/xhFcoQ9ykOQ
     - name: Physics
       video: https://drive.google.com/file/d/1sefK7p_ndEw72WQlc_yDJ8BqVZkyPn3O/preview
     - name: Advanced Physics

@@ -11,5 +11,5 @@ information:
     - name: Metals I A
       video: https://www.youtube.com/embed/Xj-pB1AAfd8
     - name: Metals II A and Advanced Metals
-      video: https://drive.google.com/file/d/1AYE348B5YJxT_jG_JfQe_1HNsKrJriz7/preview
+      video: https://www.youtube.com/embed/Pacj5I-dDHo
 ---

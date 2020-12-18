@@ -5,6 +5,9 @@
     <input class="form-control" id="myInput" type="text" placeholder="Search..">
     <br>
 
+    {% if page.layout =="faculty" %} <div class="d-flex justify-content-center"> {%endif%}
+
+
     <ul class="list-group list-group-flush faculty-list border" id="myList">
       {% assign teachers = site.faculty | sort: "key" %}
       {% for teacher in teachers  %}
@@ -13,6 +16,8 @@
       </a>
       {% endfor %}
     </ul>
+
+    {% if page.layout =="faculty" %} </div> {%endif%}
 
 
   </div>
